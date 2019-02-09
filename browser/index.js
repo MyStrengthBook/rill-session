@@ -52,7 +52,6 @@ module.exports = function (opts) {
       script.async = true
       script.src = URL
       head.appendChild(script)
-      
     })
   }
 }
